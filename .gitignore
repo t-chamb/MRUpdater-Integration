@@ -1,0 +1,31 @@
+# Backup files
+backups/*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+log.log
+
+# Database files
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/settings.json
+
+# Large binary files
+*.zip
+*.gz
+*.tar
+
+# Test artifacts
+test_*.log
+*_report.md
+*_report.txt
